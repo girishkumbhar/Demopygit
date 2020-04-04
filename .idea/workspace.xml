@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a524ecfe-629d-42ff-9651-ec2233f34529" name="Default Changelist" comment="">
+      <change afterPath="C:/DELL/Datasqlite.exe/New folder/felix-framework-2.0.5/felix-framework-2.0.5/doc/apache-felix-framework-launching-and-embedding_files/forbidden.gif" afterDir="false" />
+      <change afterPath="C:/DELL/Datasqlite.exe/New folder/felix-framework-2.0.5/felix-framework-2.0.5/doc/apache-felix-framework-usage-documentation_files/site.css" afterDir="false" />
+      <change afterPath="C:/DELL/Datasqlite.exe/New folder/felix-framework-2.0.5/felix-framework-2.0.5/doc/changelog_bundlerepository.txt" afterDir="false" />
+      <change afterPath="C:/DELL/Datasqlite.exe/New folder/felix-framework-2.0.5/felix-framework-2.0.5/doc/changelog_framework.txt" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/artifacts.xml" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.ecf.core.ssl.feature_1.1.300.v20191023-2007/META-INF/ECLIPSE_.SF" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.ecf.filetransfer.feature_3.14.600.v20191023-2007/META-INF/ECLIPSE_.RSA" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.ecf.filetransfer.httpclient45.feature_1.0.100.v20191024-1546/epl-v10.html" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.200.v20191024-1546/META-INF/ECLIPSE_.RSA" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.200.v20191024-1546/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.egit_5.6.0.201912101111-r/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.emf.common_2.17.0.v20190920-0401/license.html" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.epp.logging.aeri.feature_2.0.7.v20180504-0806/epl-v10.html" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.epp.mpc_1.8.1.v20191106-1317/feature.xml" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.equinox.p2.extras.feature_1.4.600.v20191120-0247/META-INF/ECLIPSE_.SF" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.equinox.p2.rcp.feature_1.4.600.v20191120-0247/META-INF/ECLIPSE_.SF" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.equinox.p2.rcp.feature_1.4.600.v20191120-0247/feature.properties" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.help_2.3.0.v20191210-0610/META-INF/ECLIPSE_.RSA" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.jgit.ssh.apache_5.6.0.201912101111-r/META-INF/ECLIPSE_.RSA" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.mylyn.commons.identity_1.16.0.v20180904-2231/META-INF/ECLIPSE_.RSA" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.mylyn.context_feature_3.24.2.v20180905-0014/license.html" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.mylyn.monitor_3.24.2.v20180904-2231/META-INF/eclipse.inf" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.mylyn.tasks.ide_3.24.2.v20180905-0003/epl-v10.html" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.mylyn.tasks.ide_3.24.2.v20180905-0003/feature.xml" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.mylyn.team_feature_3.24.2.v20180905-0014/META-INF/ECLIPSE_.SF" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.mylyn.wikitext_feature_3.0.35.201912061959/feature.properties" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.mylyn_feature_3.24.2.v20180905-0003/META-INF/ECLIPSE_.RSA" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.rse.dstore_4.5.100.201911240504/license.html" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.rse.local_4.5.100.201911240504/META-INF/ECLIPSE_.RSA" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.rse.local_4.5.100.201911240504/epl-v10.html" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.tips.feature_0.2.700.v20191123-0656/epl-2.0.html" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.tips.feature_0.2.700.v20191123-0656/license.html" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.tm.terminal.control.feature_4.5.102.201911240504/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/features/org.eclipse.wst.server_adapters.feature_3.2.801.v201912051849/META-INF/ECLIPSE_.RSA" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/com.sun.el_2.2.0.v201303151357.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/net.i2p.crypto.eddsa_0.3.0.v20181102-1323.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.7.v20190926-0324/about_files/DOM-LICENSE.html" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.7.v20190926-0324/etc/checkstyle/checkstyle-frames-sortby-check.xsl" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.7.v20190926-0324/lib/ant-junit4.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.7.v20190926-0324/lib/ant-junitlauncher.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.apache.ant_1.10.7.v20190926-0324/lib/ant-launcher.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.apache.httpcomponents.httpcore_4.4.10.v20190123-2214.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.apache.lucene.analyzers-common_6.1.0.v20161115-1612.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.apache.xmlrpc_3.0.0.v20100427-1100.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.cdt.core.win32.x86_64_5.4.2.201811241055/META-INF/ECLIPSE_.SF" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.cdt.core.win32.x86_64_5.4.2.201811241055/os/win32/x86_64/winpty.dll" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.compare_3.7.800.v20191122-2107.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.core.jobs_3.10.600.v20191122-2104.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.e4.core.contexts_1.8.300.v20191017-1404.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.ecf.provider.filetransfer_3.2.500.v20191017-1905.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.egit.gitflow_5.6.0.201912101111-r.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.emf.common_2.17.0.v20190920-0401.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.epp.mpc.ui_1.8.1.v20191106-1317.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.equinox.p2.jarprocessor_1.1.500.v20191014-1732.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.equinox.p2.repository_2.4.600.v20191016-0510.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.equinox.p2.ui.importexport_1.2.400.v20191016-0512.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.equinox.preferences_3.7.600.v20191017-2055.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.jetty.security_9.4.24.v20191120.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.lsp4j.debug_0.8.1.v20190925-0746.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.mylyn.commons.xmlrpc_3.24.2.v20180904-2231.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.mylyn.discovery.core_3.24.2.v20180904-2231.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.mylyn.wikitext.tasks.ui_3.0.35.201912061959.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.oomph.predicates_1.11.0.v20190920-0437.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.oomph.resources.edit_1.10.0.v20180706-1242.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.osgi.util_3.5.300.v20190708-1141.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.osgi_3.15.100.v20191114-1701.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.platform_4.14.0.v20191210-0610/eclipse48.png" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.platform_4.14.0.v20191210-0610/images/winXPBlue.png" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.rse.services.local_4.5.100.201901312252.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.rse.services.telnet_4.5.100.201901312252.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.rse.subsystems.shells.dstore_4.5.100.201901312252.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.rse.subsystems.shells.local_4.5.100.201901312252.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.tips.ide_0.1.700.v20191107-0642.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.ui.console_3.9.0.v20191126-0912.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.ui.intro.universal_3.3.700.v20191025-0657.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.ui.navigator_3.9.100.v20191122-2109.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.ui.themes_1.2.800.v20191127-1314/META-INF/ECLIPSE_.RSA" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.ui.themes_1.2.800.v20191127-1314/about.html" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.ui.themes_1.2.800.v20191127-1314/css/dark/e4-dark_globalstyle.css" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.ui.themes_1.2.800.v20191127-1314/css/e4_default_gtk.css" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.ui.themes_1.2.800.v20191127-1314/images/dragHandle-rotated.png" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.ui.themes_1.2.800.v20191127-1314/images/winXPOlive.png" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/grammars/typescript/ExampleJsDoc.injection.tmLanguage.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/grammars/typescript/Readme.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/icons/cssEditorIcon.png" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/icons/firefoxIconSmall.png" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/@angular/language-server/node_modules/@angular/language-service/src/common.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/@angular/language-server/node_modules/@angular/language-service/src/global_symbols.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/@angular/language-server/node_modules/@angular/language-service/src/locate_symbol.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/@angular/language-service/language-service.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/@angular/language-service/package.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/@angular/language-service/src/html_info.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/@angular/language-service/src/template.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/@angular/language-service/src/utils.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/@types/source-map/index.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/agent-base/package.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/ajv/.tonic_example.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/ajv/lib/dot/errors.def" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/ajv/lib/dotjs/anyOf.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/ajv/lib/keyword.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/ajv/lib/refs/data.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/ajv/scripts/bundle.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/ajv/scripts/compile-dots.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/ansi-styles/package.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/argparse/lib/argparse.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/argparse/lib/argument/exclusive.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/asynckit/bench.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/asynckit/lib/abort.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/brace-expansion/package.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/chokidar/lib/fsevents-handler.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/clone/clone.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/color-name/README.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/color-name/test.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/debug/.npmignore" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/debugger-for-chrome/CHANGELOG.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/debugger-for-chrome/i18n/chs/out/src/chromeDebugAdapter.i18n.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/debugger-for-chrome/i18n/rus/out/src/errors.i18n.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/debugger-for-chrome/out/nls.bundle.de.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/debugger-for-chrome/out/nls.bundle.zh-tw.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/debugger-for-chrome/out/nls.metadata.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/debugger-for-chrome/package.nls.ja.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/debugger-for-chrome/package.nls.zh-tw.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/ecc-jsbn/README.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/ecc-jsbn/lib/ec.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/emojis-list/CHANGELOG.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/es6-promise/dist/es6-promise.min.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/es6-promise/lib/es6-promise/promise/race.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/es6-promisify/dist/promise.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/fast-deep-equal/README.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/firefox-debugadapter/package.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/fs-extra/lib/ensure/symlink-paths.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/fs-extra/lib/index.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/fs-extra/lib/mkdirs/win32.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/fs-extra/lib/output/index.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/graceful-fs/polyfills.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/har-schema/lib/log.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/har-schema/lib/request.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/image-size/LICENSE" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/image-size/lib/types/psd.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/is-number/LICENSE" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/isstream/.jshintrc" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/js-yaml/lib/js-yaml/exception.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/json-schema/draft-03/examples/calendar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/json-stringify-safe/.npmignore" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/json-stringify-safe/stringify.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/jsonc-parser/lib/esm/format.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/jsonc-parser/lib/umd/format.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/jsprim/package.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/bower.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/lib/less/parse-tree.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/lib/less/parser/parser.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/lib/less/source-map-output.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/lib/less/tree/operation.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/lib/less/tree/property.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/lib/less/visitors/set-tree-visibility-visitor.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/browser/common.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/browser/css/rootpath-relative/urls.css" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/browser/less/nested-gradient-with-svg-gradient/svg-gradient-mixin.less" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/browser/runner-legacy-spec.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/browser/runner-modify-vars-options.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/browser/runner-no-js-errors-options.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/browser/runner-production-spec.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/browser/runner-relative-urls-spec.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/browser/vendor/promise.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/css/extend-chaining.css" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/css/import-module.css" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/css/import-reference-issues.css" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/css/javascript.css" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/css/namespacing/namespacing-1.css" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/css/operations.css" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/css/rootpath-rewrite-urls-all/rootpath-rewrite-urls-all.css" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/data/image.jpg" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/errors/add-mixed-units.txt" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/errors/color-func-invalid-color.less" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/errors/detached-ruleset-1.txt" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/errors/functions-5-color.less" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/errors/mixed-mixin-definition-args-1.less" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/errors/mixin-not-defined.less" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/errors/mixin-not-defined.txt" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/errors/mixins-guards-default-func-3.less" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/errors/parens-error-1.txt" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/errors/parse-error-missing-parens.txt" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/errors/plugin/plugin-error.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/errors/unit-function.less" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/extend-exact.less" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/functions-each.less" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/globalVars/extended.less" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/import-reference-issues.less" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/import-reference-issues/simple-mixin.css" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/import/import-test-d.css" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/import/invalid-css.less" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/modifyVars/extended.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/namespacing/namespacing-1.less" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/property-accessors.less" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/less/test/less/rewrite-urls-all/rewrite-urls-all.less" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/loader-utils/index.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/loader-utils/package.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_arrayIncludes.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_arrayShuffle.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_baseAssignIn.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_baseInRange.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_baseIsMatch.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_baseIsTypedArray.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_baseLodash.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_baseMergeDeep.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_baseSlice.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_cloneRegExp.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_createBaseEach.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_createCtor.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_getRawTag.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_isIndex.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_lazyClone.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_listCacheGet.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_reInterpolate.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_setToPairs.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_stringSize.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/_toKey.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/cond.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/countBy.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/curry.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/dropRightWhile.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/_convertBrowser.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/before.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/compact.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/defaults.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/defer.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/dropLastWhile.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/dropRight.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/extendAllWith.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/findFrom.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/findIndexFrom.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/findLastFrom.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/flip.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/forOwn.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/groupBy.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/has.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/indexBy.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/isMatchWith.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/kebabCase.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/mergeWith.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/omitBy.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/orderBy.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/over.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/rangeRight.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/rangeStepRight.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/sample.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/stubString.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/symmetricDifference.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/toPlainObject.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/updateWith.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/words.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/wrapperChain.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/xorWith.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/fp/zipObjectDeep.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/isEqualWith.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/isNumber.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/isRegExp.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/keyBy.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/keys.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/last.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/math.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/method.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/pick.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/range.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/repeat.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/tail.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/templateSettings.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/toIterator.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/toLength.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/union.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/unionBy.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/uniqWith.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/lodash/zip.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/mime/types.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/minimist/test/dash.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/mkdirp/LICENSE" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/mkdirp/test/root.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/node-debug2/i18n/kor/out/src/errors.i18n.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/node-debug2/out/nls.bundle.es.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/node-debug2/out/nls.bundle.ko.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/noice-json-rpc/README.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/p-debounce/readme.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/postcss-icss-selectors/node_modules/postcss/README.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/postcss-icss-selectors/node_modules/postcss/lib/parser.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/postcss-icss-selectors/node_modules/postcss/lib/stringifier.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/postcss-icss-selectors/node_modules/postcss/lib/tokenize.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/postcss-icss-selectors/node_modules/supports-color/readme.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/postcss/docs/guidelines/runner.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/psl/index.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/punycode/README.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/qs/README.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/qs/lib/formats.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/qs/test/parse.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/regenerate/package.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/request/lib/helpers.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/request/request.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/source-map/source-map.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/sprintf-js/test/test.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/sshpk/bin/sshpk-sign" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/sshpk/lib/formats/putty.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/sshpk/lib/identity.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/sshpk/lib/private-key.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/sshpk/man/man1/sshpk-verify.1" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/supports-color/index.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/tempy/package.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/tough-cookie/LICENSE" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/tough-cookie/lib/memstore.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/tweetnacl/AUTHORS.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript-language-server/lib/calls.js.map" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript-language-server/lib/hover.js.map" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript-language-server/lib/modules-resolver.spec.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript-language-server/lib/test-utils.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript-language-server/lib/test-utils.d.ts.map" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript-language-server/lib/ts-protocol.d.ts.map" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript-language-server/lib/tsp-command-types.js.map" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript-language-server/node_modules/vscode-languageserver/lib/resolve.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript-language-server/node_modules/vscode-languageserver/lib/utils/is.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript-lit-html-plugin/lib/configuration.js.map" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript-plugin-css-modules/lib/helpers/createMatchers.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript-styled-plugin/LICENSE.txt" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript-template-language-service-decorator/lib/template-source-helper.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/README.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/lib.es2017.object.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/lib.esnext.asynciterable.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/typescript/lib/lib.scripthost.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/uri-js/dist/es5/uri.all.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/uri-js/dist/esnext/schemes/http.js.map" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js.map" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/uuid/lib/sha1-browser.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/uuid/v1.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/uuid/v4.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-chrome-debug-core/i18n/rus/out/src/chrome/chromeDebugAdapter.i18n.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-chrome-debug-core/i18n/trk/out/src/transformers/baseSourceMapTransformer.i18n.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-chrome-debug-core/lib/src/chrome/breakpoints.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-chrome-debug-core/lib/src/sourceMaps/sourceMapUtils.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-chrome-debug-core/lib/src/utils.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-chrome-debug-core/out/src/chrome/smartStep.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-chrome-debug-core/out/src/sourceMaps/sourceMap.js.map" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-css-languageserver/node_modules/vscode-css-languageservice/lib/esm/data/browsers.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-css-languageserver/node_modules/vscode-css-languageservice/lib/esm/languageFacts/dataProvider.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-css-languageserver/node_modules/vscode-css-languageservice/lib/esm/languageFacts/entry.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-css-languageserver/node_modules/vscode-css-languageservice/lib/esm/services/cssValidation.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-css-languageserver/node_modules/vscode-css-languageservice/lib/esm/services/scssCompletion.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-css-languageserver/node_modules/vscode-css-languageservice/lib/umd/cssLanguageService.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-css-languageserver/node_modules/vscode-css-languageservice/lib/umd/data/browsers.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-css-languageserver/node_modules/vscode-css-languageservice/lib/umd/languageFacts/entry.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-css-languageserver/node_modules/vscode-css-languageservice/lib/umd/services/cssValidation.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-css-languageserver/node_modules/vscode-languageserver-protocol/.eslintrc.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-css-languageserver/node_modules/vscode-languageserver-protocol/lib/protocol.selectionRange.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-css-languageserver/node_modules/vscode-languageserver-protocol/thirdpartynotices.txt" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-css-languageserver/node_modules/vscode-languageserver-types/lib/umd/main.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-css-languageserver/node_modules/vscode-languageserver/lib/configuration.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-css-languageserver/node_modules/vscode-languageserver/lib/proposed.progress.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-css-languageserver/node_modules/vscode-languageserver/package.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-debugadapter/lib/main.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-emmet-helper/LICENSE" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageserver/node_modules/vscode-css-languageservice/lib/esm/languageFacts/builtinData.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageserver/node_modules/vscode-css-languageservice/lib/esm/utils/arrays.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageserver/node_modules/vscode-css-languageservice/lib/umd/languageFacts/builtinData.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageserver/node_modules/vscode-css-languageservice/lib/umd/services/cssHover.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageserver/node_modules/vscode-css-languageservice/lib/umd/utils/objects.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageserver/node_modules/vscode-html-languageservice/lib/umd/services/htmlFormatter.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageserver/node_modules/vscode-html-languageservice/lib/umd/services/htmlHighlighting.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageserver/node_modules/vscode-html-languageservice/lib/umd/services/htmlLinks.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageserver/node_modules/vscode-jsonrpc/lib/linkedMap.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageserver/node_modules/vscode-jsonrpc/lib/messageWriter.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageserver/node_modules/vscode-jsonrpc/lib/messages.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageserver/node_modules/vscode-jsonrpc/lib/pipeSupport.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageserver/node_modules/vscode-languageserver-protocol/License.txt" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageserver/node_modules/vscode-languageserver-protocol/lib/protocol.selectionRange.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageserver/node_modules/vscode-languageserver-protocol/lib/utils/is.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageserver/node_modules/vscode-languageserver-protocol/package.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageserver/node_modules/vscode-languageserver/bin/installServerIntoExtension" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageserver/node_modules/vscode-languageserver/lib/thenable.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageserver/node_modules/vscode-languageserver/lib/workspaceFolders.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageservice/LICENSE.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageservice/lib/esm/services/htmlFormatter.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageservice/lib/esm/utils/arrays.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-html-languageservice/lib/umd/services/htmlCompletion.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-json-languageserver/node_modules/jsonc-parser/LICENSE.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-json-languageserver/node_modules/vscode-jsonrpc/lib/messageReader.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-json-languageserver/node_modules/vscode-languageserver-protocol/lib/protocol.configuration.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-json-languageserver/node_modules/vscode-languageserver-protocol/lib/protocol.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-json-languageserver/node_modules/vscode-languageserver-protocol/lib/protocol.typeDefinition.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-json-languageserver/node_modules/vscode-languageserver/lib/utils/is.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-json-languageservice/CHANGELOG.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-json-languageservice/lib/esm/jsonLanguageService.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-json-languageservice/lib/esm/parser/jsonParser.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-json-languageservice/lib/umd/services/jsonHover.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-json-languageservice/node_modules/jsonc-parser/lib/umd/impl/edit.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-jsonrpc/README.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-jsonrpc/package.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-languageserver-protocol/thirdpartynotices.txt" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-languageserver/lib/files.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-textbuffer/lib/common/position.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/vscode-uri/lib/umd/index.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/ws/lib/buffer-util.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-ast-parser-custom-tags/dist/src/schema/core.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-ast-parser-custom-tags/dist/src/type/float.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-ast-parser-custom-tags/dist/src/type/js/regexp.js.map" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-ast-parser-custom-tags/dist/src/type/pairs.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-ast-parser-custom-tags/src/dumper.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-ast-parser-custom-tags/src/schema/default_safe.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-ast-parser-custom-tags/src/schema/failsafe.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-ast-parser-custom-tags/src/type/omap.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-ast-parser-custom-tags/test/loader.test.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/node_modules/vscode-json-languageservice/README.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/node_modules/vscode-json-languageservice/lib/esm/jsonContributions.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/node_modules/vscode-json-languageservice/lib/esm/services/jsonCompletion.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/node_modules/vscode-json-languageservice/lib/esm/services/jsonSchemaService.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/node_modules/vscode-json-languageservice/lib/umd/jsonContributions.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/node_modules/vscode-json-languageservice/lib/umd/jsonSchema.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/node_modules/vscode-json-languageservice/lib/umd/services/configuration.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/node_modules/vscode-json-languageservice/lib/umd/utils/json.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/agent-base/test/ssl-cert-snakeoil.key" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/argparse/lib/argument/exclusive.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/debug/src/browser.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/es6-promise/lib/es6-promise/asap.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/js-yaml/lib/js-yaml/type/js/function.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/jsonc-parser/package.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/prettier/parser-markdown.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/prettier/parser-yaml.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/request-light/README.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/request-light/lib/main.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/vscode-languageserver-types/README.md" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/vscode-languageserver/lib/resolve.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/yaml-ast-parser-custom-tags/dist/src/type/bool.js.map" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/yaml-ast-parser-custom-tags/dist/src/type/float.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/yaml-ast-parser-custom-tags/dist/src/type/js/function.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/yaml-ast-parser-custom-tags/dist/src/type/omap.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/yaml-ast-parser-custom-tags/dist/src/type/timestamp.js.map" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/yaml-ast-parser-custom-tags/dist/test/multipleKinds.test.js.map" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/yaml-ast-parser-custom-tags/src/type/bool.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/node_modules/yaml-ast-parser-custom-tags/test/loader.test.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/src/languageservice/jsonASTTypes.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/src/languageservice/services/yamlCompletion.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/src/languageservice/utils/paths.js.map" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/src/requestTypes.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/test/autoCompletion2.test.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/test/customTags.test.d.ts" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/test/formatter.test.js.map" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/test/schemaValidation.test.js" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/language-servers/node_modules/yaml-language-server/out/server/test/schemaValidation.test.js.map" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/org/eclipse/wildwebdeveloper/debug/chrome/ChromeRunDebugTabGroup.class" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.2.201911072316/snippets/json/sample.json" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wst.common.core_1.3.0.v201903222010.jar" afterDir="false" />
+      <change afterPath="C:/DELL/eclipse-javascript-2019-12-R-win32-x86_64/eclipse/plugins/org.jsoup_1.8.3.v20181012-1713.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PythonSeleniumCourse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\DELL\PycharmProjects\PythonSeleniumCourse\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VwMJzTh0zuHJmJRRxti3HnV1BQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="C:/DELL" />
+    <property name="recentsLimit" value="0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myUseExistingConsole" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\DELL\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a524ecfe-629d-42ff-9651-ec2233f34529" name="Default Changelist" comment="" />
+      <created>1578159636866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578159636866</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="789" y="100" key="#Inspections" timestamp="1585931618532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="789" y="100" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1585931618532" />
+    <state x="789" y="100" key="#Notifications" timestamp="1585831978287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="789" y="100" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1585831978287" />
+    <state x="790" y="100" key="#Updates" timestamp="1585924994214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="100" key="#Updates/0.0.1920.1040@0.0.1920.1040" timestamp="1585924994214" />
+    <state x="652" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585924786803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585924786802" />
+    <state x="606" y="37" key="CommitChangelistDialog2" timestamp="1585850218488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="606" y="37" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585850218488" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1585932836266">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585932836266" />
+    <state x="1041" y="337" key="Github.ShareDialog" timestamp="1585849090216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1041" y="337" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585849090216" />
+    <state x="709" y="163" key="RollbackChangesDialog" timestamp="1585850290561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="709" y="163" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585850290561" />
+    <state x="463" y="166" key="SettingsEditor" timestamp="1585928723215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585928723215" />
+    <state x="789" y="174" key="Vcs.Push.Dialog.v2" timestamp="1585928669021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="789" y="174" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585928669021" />
+    <state x="906" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1585932479028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="906" y="266" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585932479028" />
+    <state x="1099" y="175" width="373" height="526" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1585924702124">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1099" y="175" width="373" height="526" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585924702124" />
+    <state x="1008" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585850240117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1008" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585850240117" />
+    <state x="951" y="242" key="git4idea.merge.GitPullDialog" timestamp="1585924345218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="951" y="242" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585924345218" />
+  </component>
+</project>
