@@ -1,0 +1,10 @@
+from.selenium.webdriver.chrome.option. import option
+
+to_capabilities = Options.to_capabilities
+
+def new_to_capabilities(self):
+capabilities = to_capabilities(self):
+capabilities["google:loggingprefs"] = {"browser":"ALL"}
+return capability
+
+option.to_capabilities = new_to_capabilities
